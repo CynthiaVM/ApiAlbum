@@ -25,6 +25,10 @@ button{
     -moz-border-radius: 28;
     border-radius: 28px;
    }
+   button:hover{
+    color: rgb(3, 48, 7);
+    background-color: rgb(72, 210, 30);
+   }
 
 .form{
     background-color: beige;
